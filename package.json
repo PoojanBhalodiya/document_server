@@ -1,0 +1,17 @@
+{
+  "name": "document",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev" : "npx directus start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "directus": "^10.8.2",
+    "mysql": "^2.18.1"
+  }
+}
